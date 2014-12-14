@@ -19,7 +19,7 @@
 ```
 unzip easyroman.zip
 cd easyroman
-python setup install
+sudo python setup.py install
 
 ```
 
