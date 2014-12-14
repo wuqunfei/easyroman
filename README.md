@@ -45,7 +45,7 @@ Roman numerals, as used today, are based on seven standard symbols.
 |M 	|1,000|
 
 
-This application is not includes extentsion.  [Big Roman Number](http://www.legionxxiv.org/numerals/) 
+This application is not includes extension.  [Big Roman Number](http://www.legionxxiv.org/numerals/)
 
 | Symbol   |      Value    |
 |----------|:-------------:|
@@ -57,6 +57,8 @@ This application is not includes extentsion.  [Big Roman Number](http://www.legi
 |d 	|500,000|
 |m 	|1,000,000|
 
-So the biggest number of roman is MMMCMXCIX(3999). 1 <= x <= 3999
+So the biggest number of roman is MMMCMXCIX(3999). 1 <= x <= 3999. Because, in a few specific cases,[2] to avoid
+four characters being repeated in succession (such as IIII or XXXX) these can be reduced using subtractive notation as follows,
+so the biggest MMMM is not allowed in my application. MMMM is 4000.
 
 
