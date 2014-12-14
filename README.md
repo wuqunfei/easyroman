@@ -9,9 +9,11 @@
 2. Context free grammar
 3. The roman numerals logic can be express by Context free grammar.
 4. Documents in modual doc and following links as Reference:
-	a. [WIKI of Roman Numberls](http://en.wikipedia.org/wiki/Roman_numerals)
-    b. [WIKI of Context Free Grammer](http://en.wikipedia.org/wiki/Context-free_grammar)
-    c. [Roman Numbers into Context free grammar](http://www.cs.bath.ac.uk/~occ/comp0029/roman_numerals.shtml)
+	1. [WIKI of Roman Numberls](http://en.wikipedia.org/wiki/Roman_numerals)
+	
+    2. [WIKI of Context Free Grammer](http://en.wikipedia.org/wiki/Context-free_grammar)
+    
+    3. [Roman Numbers into Context free grammar](http://www.cs.bath.ac.uk/~occ/comp0029/roman_numerals.shtml)
     
 ### Install
 ```
