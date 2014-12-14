@@ -3,7 +3,7 @@
 ####A easy Integer into Roman numerals converter library.
 ===
 
-### Knowledge Algorithm
+### Knowledge and Algorithm
 
 1. Roman numerals 
 2. Context free grammar
