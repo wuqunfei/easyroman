@@ -1,5 +1,4 @@
-"""Description"""
-
+# -*- coding: UTF-8 -*-
 __author__ = 'Qunfei Wu'
 __version__ = '0.1'
 __date__ = '14/12/14'

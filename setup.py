@@ -1,5 +1,5 @@
 """"""
-
+# -*- coding: UTF-8 -*-
 __author__ = 'Qunfei Wu'
 __version__ = '0.1'
 __date__ = '14/12/14'
@@ -17,7 +17,6 @@ setup(
     author='Qunfei Wu',
     author_email='wu.qunfei@gmail.com',
     description='A easy Integer into Roman numerals converter',
-    test_suite='unitests',
     classifiers=[
         'Programming Language :: Python :: 2.7',
         'Natural Language :: English',
